@@ -10,6 +10,6 @@ CREATE TABLE `offices` (
       `postcode` varchar(10) NOT NULL,
       PRIMARY KEY (`office_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
-INSERT INTO `offices` VALUES (1,"Albertslund Hall Westacres Rd","Glasgow", "G77 6WW");
+INSERT INTO `offices` VALUES (1,"","Glasgow");
 
 
