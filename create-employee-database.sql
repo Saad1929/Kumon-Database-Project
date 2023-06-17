@@ -23,6 +23,25 @@ CREATE TABLE `employees` (
   PRIMARY KEY (`employee_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 INSERT INTO `employees` VALUES (37270,'Yovonnda','Magrannell','Instructor',63996,NULL,1);
+INSERT INTO `employees` VALUES (33391,'Saad','Baig','Senior Marking Assistant',30000,37270,1);
+INSERT INTO `employees` VALUES (37851,'Sayer','Matterson','Junior Marking Assistant',24000,37270,1);
+INSERT INTO `employees` VALUES (40448,'Mindy','Crissil','Junior Marking Assistant',24000,37270,1);
+INSERT INTO `employees` VALUES (56274,'Keriann','Alloisi','Junior Marking Assistant',24000,37270,1);
+INSERT INTO `employees` VALUES (63196,'Alaster','Scutchin','Senior Marking Assistant',30000,37270,1);
+INSERT INTO `employees` VALUES (67009,'North','de Clerc','Senior Marking Assistant',30000,37270,1);
+INSERT INTO `employees` VALUES (67370,'Elladine','Rising','Senior Marking Assistant',30000,37270,1);
+INSERT INTO `employees` VALUES (68249,'Nisse','Voysey','Junior Marking Assistant',24000,37270,1);
+INSERT INTO `employees` VALUES (72540,'Guthrey','Iacopetti','Junior Marking Assistant',24000,37270,1);
+INSERT INTO `employees` VALUES (72913,'Kass','Hefferan','Receptionist',28000,37270,1);
+INSERT INTO `employees` VALUES (75900,'Virge','Goodrum','Senior Marking Assistant',30000,37270,1);
+INSERT INTO `employees` VALUES (76196,'Mirilla','Janowski','Junior Marking Assistant',24000,37270,1);
+INSERT INTO `employees` VALUES (80529,'Lynde','Aronson','Receptionist',28000,37270,1);
+INSERT INTO `employees` VALUES (80679,'Mildrid','Sokale','Junior Marking Assistant',24000,37270,1);
+INSERT INTO `employees` VALUES (84791,'Hazel','Tarbert','Junior Marking Assistant',24000,37270,1);
+INSERT INTO `employees` VALUES (95213,'Cole','Kesterton','Junior Marking Assistant',24000,37270,1);
+INSERT INTO `employees` VALUES (96513,'Theresa','Binney','Receptionist',28000,37270,1);
+INSERT INTO `employees` VALUES (98374,'Estrellita','Daleman','Junior Marking Assistant',24000,37270,1);
+INSERT INTO `employees` VALUES (115357,'Ivy','Fearey','First Aider',30000,37270,1);
 
 
 
