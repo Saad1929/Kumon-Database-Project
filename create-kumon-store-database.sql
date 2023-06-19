@@ -53,6 +53,57 @@ CREATE TABLE `students` (
   `parent_id` int(11) NOT NULL,
   PRIMARY KEY (`student_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (1, 'Hilary', 'Haslock', '2008-04-03', 1, 10);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (2, 'Janeen', 'Di Bartolomeo', '2011-09-13', 2, 8);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (3, 'Bobine', 'Bissiker', '2009-10-09', 1, 17);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (4, 'Saleem', 'Heathwood', '2008-06-29', 2, 17);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (5, 'Bettye', 'Lievesley', '2013-02-21', 1, 5);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (6, 'Yvor', 'Sowersby', '2011-07-16', 2, 14);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (7, 'Elbert', 'Dubois', '2013-08-28', 1, 4);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (8, 'Donica', 'Burwood', '2010-04-08', 2, 12);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (9, 'Jerrilee', 'Jilliss', '2012-09-24', 2, 8);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (10, 'Jody', 'Dawley', '2012-01-11', 2, 3);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (11, 'Arielle', 'Tombling', '2010-09-19', 2, 5);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (12, 'Gillie', 'Winchurch', '2011-09-11', 1, 15);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (13, 'Hill', 'Liveley', '2013-06-10', 1, 5);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (14, 'Emanuel', 'Escolme', '2014-02-17', 2, 18);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (15, 'Francesca', 'Conyers', '2014-03-23', 2, 15);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (16, 'Minnnie', 'Whitelaw', '2010-08-20', 1, 21);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (17, 'Gill', 'Oakley', '2008-09-09', 2, 4);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (18, 'Godfree', 'Potter', '2010-02-07', 1, 16);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (19, 'Nathanial', 'Springtorpe', '2008-07-10', 2, 18);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (20, 'Julianne', 'Kinglake', '2009-10-15', 1, 3);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (21, 'Davide', 'Borzone', '2008-04-19', 1, 1);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (22, 'Horatia', 'Harrisson', '2013-09-12', 2, 16);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (23, 'Fredia', 'Drever', '2013-07-24', 1, 15);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (24, 'Alta', 'Levine', '2014-02-11', 2, 8);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (25, 'Lazare', 'Dear', '2012-11-11', 1, 1);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (26, 'Mic', 'Bortoli', '2008-01-09', 2, 8);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (27, 'Amaleta', 'Dagworthy', '2013-11-17', 1, 21);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (28, 'Chantalle', 'Shaddick', '2009-02-09', 1, 19);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (29, 'Hanna', 'Doran', '2011-02-04', 1, 15);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (30, 'Vassili', 'Liger', '2014-05-10', 1, 21);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (31, 'Peirce', 'Doughill', '2012-03-05', 1, 4);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (32, 'Catharina', 'Twitchings', '2010-07-23', 2, 20);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (33, 'Carmela', 'Ginnell', '2011-11-23', 2, 16);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (34, 'Alvera', 'Baldack', '2011-10-09', 2, 15);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (35, 'Mordy', 'Catcherside', '2012-04-22', 1, 8);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (36, 'Britte', 'Vlasenko', '2011-08-12', 2, 15);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (37, 'Alard', 'Fosher', '2013-06-21', 2, 18);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (38, 'Orin', 'Agdahl', '2009-11-13', 2, 15);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (39, 'Nikoletta', 'Morit', '2010-11-23', 1, 5);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (40, 'Lenore', 'Olivia', '2013-06-30', 2, 7);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (41, 'Bartholomeo', 'Dicte', '2014-03-01', 2, 16);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (42, 'Karyl', 'Johnke', '2009-03-23', 2, 13);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (43, 'Shantee', 'O''Lunny', '2010-06-02', 1, 15);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (44, 'Charmaine', 'Kendal', '2008-06-01', 1, 18);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (45, 'Danielle', 'Sugg', '2013-01-31', 1, 4);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (46, 'Keane', 'Dampney', '2008-09-07', 1, 8);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (47, 'Travis', 'Tigwell', '2012-12-18', 1, 18);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (48, 'Salomo', 'Zecchinii', '2011-09-08', 2, 20);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (49, 'Hube', 'Spinozzi', '2008-09-23', 1, 12);
+insert into students (student_id, first_name, last_name, birth_date, programme_id, parent_id) values (50, 'Fan', 'Witsey', '2008-02-27', 1, 3);
+
 
 
 
