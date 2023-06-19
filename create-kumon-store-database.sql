@@ -43,3 +43,18 @@ INSERT INTO `parents` VALUES (18,'Kevin','Vice','1980-09-22','07321-123-908','30
 INSERT INTO `parents` VALUES (19,'Conroy','Coogan','1990-05-12','07345-546-908','1 Great Trail','Glasgow','G32 OBJ');
 INSERT INTO `parents` VALUES (20,'Mia','Bollom','1980-07-12','07320-792-922','22 Winters Junction','Glasgow','G46 6BY');
 INSERT INTO `parents` VALUES (21, 'Arluene', 'Garforth', '1984-10-08', '07320-792-922','90 Parkside Junction', 'Glasgow' ,'G46 OBJ');
+
+CREATE TABLE `students` (
+  `student_id` int(11) NOT NULL AUTO_INCREMENT,
+  `first_name` varchar(50) NOT NULL,
+  `last_name` varchar(50) NOT NULL,
+  `birth_date` date DEFAULT NULL,
+  `programme_id` int(11) NOT NULL,
+  `parent_id` int(11) NOT NULL,
+  PRIMARY KEY (`student_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
+
+
+
