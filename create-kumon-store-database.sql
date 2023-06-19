@@ -42,10 +42,4 @@ INSERT INTO `parents` VALUES (17,'Violante','Salzar','1977-07-18','07649-223-889
 INSERT INTO `parents` VALUES (18,'Kevin','Vice','1980-09-22','07321-123-908','30 Small Trail','Glasgow','G46 7IP');
 INSERT INTO `parents` VALUES (19,'Conroy','Coogan','1990-05-12','07345-546-908','1 Great Trail','Glasgow','G32 OBJ');
 INSERT INTO `parents` VALUES (20,'Mia','Bollom','1980-07-12','07320-792-922','22 Winters Junction','Glasgow','G46 6BY');
-
-
-
-
-
-
-
+INSERT INTO `parents` VALUES (21, 'Arluene', 'Garforth', '1984-10-08', '07320-792-922','90 Parkside Junction', 'Glasgow' ,'G46 OBJ');
