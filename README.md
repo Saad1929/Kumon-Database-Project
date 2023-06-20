@@ -13,3 +13,6 @@
 - **Lucidchart** was used to create **Entity Relationship (ER) Diagrams** for clients to **view and visualise** their database. These diagrams were also used as **part of comprehensive coaching provided to clinets**.
 - **Git** was used as a **Version Control System (VCS)** to maintain a history of the software project.
 - **GitHub** was used to host and share code repositories with clients as agreed in the **release & sprint planning meetings.**
+## ✏️Design
+### Entity Relationship (ER) Diagram
+- An **Entity Relationship (ER) Diagram** was created to provide a **clear and intuitive visual representation of the structure and relationships within the database** which was used in **sprint & release planning meetings**.
