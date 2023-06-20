@@ -11,3 +11,5 @@
 - **MySQLWorkbench** was used to create the database, tables and add records using **SQL**.
 - **DataGrip** was used for **writing queries and creating database views** to store results to important queries.
 - **Lucidchart** was used to create **Entity Relationship (ER) Diagrams** for clients to **view and visualise** their database. These diagrams were also used as **part of comprehensive coaching provided to clinets**.
+- **Git** was used as a **Version Control System (VCS)** to maintain a history of the software project.
+- **GitHub** was used to host and share code repositories with clients as agreed in the **release & sprint planning meetings.**
