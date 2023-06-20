@@ -16,3 +16,6 @@
 ## ✏️Design
 ### Entity Relationship (ER) Diagram
 - An **Entity Relationship (ER) Diagram** was created to provide a **clear and intuitive visual representation of the structure and relationships within the database** which was used in **sprint & release planning meetings**.
+#### kumon_employees Database Entity Relationship (ER) Diagram
+
+
