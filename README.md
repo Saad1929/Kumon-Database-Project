@@ -20,5 +20,6 @@
 ![kumon_employees_ER](https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/912e2057-c507-4441-913d-3f9a0d4d26d1)
 #### kumon_store Database Entity Relationship (ER) Diagram
 ![kumon_stores_ER](https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/0459ecb1-bec5-4149-a177-8491797c4b74)
+### Attributes and Data Types
 
 
