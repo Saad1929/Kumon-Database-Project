@@ -21,5 +21,9 @@
 #### kumon_store Database Entity Relationship (ER) Diagram
 ![kumon_stores_ER](https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/0459ecb1-bec5-4149-a177-8491797c4b74)
 ### Attributes and Data Types
+<img width="737" alt="Screenshot 2023-06-21 at 10 21 43 pm" src="https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/ad467010-9545-4d5d-ac22-9a7f662ed58c">
+<img width="704" alt="Screenshot 2023-06-21 at 10 21 49 pm" src="https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/6077263d-c97f-40e2-a0be-381a61b5b023">
+<img width="714" alt="Screenshot 2023-06-21 at 10 21 55 pm" src="https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/ab9c715e-e86c-4515-adc1-51b4ad17c457">
+
 
 
