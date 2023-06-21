@@ -7,7 +7,7 @@
 - The objective of this project was to **develop a relational database** that facilitates Kumon and its instructors in **efficiently accessing and overseeing records of both existing and new customers**.
 - Upon commencing my tenure at the tuition center, it became evident that the management, predominantly consisting of senior individuals, relied on manual record-keeping using pen and paper for customer information. As the demand for our services surged, it became apparent that they were grappling with the arduous task of effectively managing customer data. Recognising this challenge, **I took the initiative to introduce and implement the concept of a relational database**, enabling seamless management of customer information. Furthermore, I **provided comprehensive coaching sessions to familiarise the staff with the database, ensuring its smooth utilisation and maximising its benefits for the center**.
 - I **developed a set of standard queries that were subsequently transformed into views for the database**, enabling individuals of varying skill sets and computer proficiency to **effortlessly utilise the database**.
-## ⚙️Hardware and Software Tools
+## ⚙️Technologies and Software Tools
 - **MySQLWorkbench** was used to create the database, tables and add records using **SQL**.
 - **DataGrip** was used for **writing queries and creating database views** to store results to important queries.
 - **Lucidchart** was used to create **Entity Relationship (ER) Diagrams** for clients to **view and visualise** their database. These diagrams were also used as **part of comprehensive coaching provided to clinets**.
