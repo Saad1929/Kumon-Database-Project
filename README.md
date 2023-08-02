@@ -17,13 +17,15 @@
 ### Entity Relationship (ER) Diagram
 - An **Entity Relationship (ER) Diagram** was created to provide a **clear and intuitive visual representation of the structure and relationships within the database** which was used in **sprint & release planning meetings**.
 #### kumon_employees Database Entity Relationship (ER) Diagram
-![kumon_employees_ER](https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/912e2057-c507-4441-913d-3f9a0d4d26d1)
+![kumon_employees_ER](https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/2111d5e5-e7b3-43da-9691-d9d3c810b065)
 #### kumon_store Database Entity Relationship (ER) Diagram
-![kumon_stores_ER](https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/0459ecb1-bec5-4149-a177-8491797c4b74)
-### Attributes and Data Types
-<img width="737" alt="Screenshot 2023-06-21 at 10 21 43 pm" src="https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/ad467010-9545-4d5d-ac22-9a7f662ed58c">
-<img width="704" alt="Screenshot 2023-06-21 at 10 21 49 pm" src="https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/6077263d-c97f-40e2-a0be-381a61b5b023">
-<img width="714" alt="Screenshot 2023-06-21 at 10 21 55 pm" src="https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/ab9c715e-e86c-4515-adc1-51b4ad17c457">
+![kumon_stores_ER](https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/f539d06d-2280-4e58-a263-5214a874d0c6)
 
+### Attributes and Data Types
+<img width="711" alt="Screenshot 2023-08-02 at 11 49 16 pm" src="https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/86d0ed24-d98b-41e8-94ff-4be6a34f56d4">
+
+<img width="708" alt="Screenshot 2023-08-02 at 11 49 23 pm" src="https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/2f4c7cf7-9c1a-4aa6-896d-d256aae76049">
+
+<img width="672" alt="Screenshot 2023-08-02 at 11 49 29 pm" src="https://github.com/Saad1929/Kumon-Database-Project/assets/108022733/9f1a619a-a3ea-48e9-8e48-2123cd0a6b99">
 
 
